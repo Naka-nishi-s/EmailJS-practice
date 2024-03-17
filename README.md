@@ -1,3 +1,1 @@
-Email.js を試す
-
-1. EmailJS に登録
+Email.js を試したヨ
