@@ -1,2 +1,3 @@
-# EmailJS-practice
-EmailJSを使ってみる
+Email.js を試す
+
+1. EmailJS に登録
